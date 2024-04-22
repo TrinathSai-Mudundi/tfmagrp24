@@ -14,16 +14,16 @@ The code and Output Screenshot
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/2dd3882a-6a88-46b5-86b0-a76876293295">
 
-<img width="345" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/5c3e1141-6123-4b92-b115-4d4f072ea760">
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/5c3e1141-6123-4b92-b115-4d4f072ea760">
 
-<img width="322" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/12096b22-4e13-4a55-a072-1fe792d513d0">
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/12096b22-4e13-4a55-a072-1fe792d513d0">
 
 
-<img width="282" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/9835be48-5fce-47f5-90ec-407af78e2b7d">
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/9835be48-5fce-47f5-90ec-407af78e2b7d">
 
-<img width="305" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/2ddecf28-aa09-478a-90d0-9fe6ce7935a2">
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/2ddecf28-aa09-478a-90d0-9fe6ce7935a2">
 
-<img width="339" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ee0e30c3-742b-4701-8ef2-fec95cb38bcd">
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ee0e30c3-742b-4701-8ef2-fec95cb38bcd">
 <img width="338" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ca20ddcf-6c68-4e59-a315-684bb25232c1">
 
 <img width="366" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/452378f0-54a3-40d8-95df-17e2da852523">
