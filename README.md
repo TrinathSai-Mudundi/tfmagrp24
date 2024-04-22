@@ -35,11 +35,11 @@ This is the screen where when a user chooses a particular choice from the given 
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ee0e30c3-742b-4701-8ef2-fec95cb38bcd">
 
-this is the first screenshot
+When the user chooses to navigate back and then choose another city, the user needs to remove the city. So user should choose the remove option which is shown in the above screenshot.
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ca20ddcf-6c68-4e59-a315-684bb25232c1">
 
-this is the first screenshot
+This is the screen when the user chooses the second option to select the city where all the city names are displayed. The user has the feasibility to choose the city of their choice from the given options.
 
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/452378f0-54a3-40d8-95df-17e2da852523">
