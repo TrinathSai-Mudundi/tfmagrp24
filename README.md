@@ -12,4 +12,6 @@ This Local Findings App will ensure the user a feasibility in navigating the scr
 
 The code and Output Screenshot
 
-<img width="368" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/2dd3882a-6a88-46b5-86b0-a76876293295">
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/2dd3882a-6a88-46b5-86b0-a76876293295">
+
+
