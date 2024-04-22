@@ -44,7 +44,7 @@ This is the screen when the user chooses the second option to select the city wh
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/452378f0-54a3-40d8-95df-17e2da852523">
 
-this is the first screenshot
+After selecting the city of their choice [ For example: Cincinnati ], all the subcomponent screens are displayed and the main attraction of the city is displayed at the bottom of the page which is highlighted.
 
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/f1629c97-2e65-48b3-a5c1-a228acc0ca46">
