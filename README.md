@@ -51,25 +51,25 @@ After selecting the city of their choice [ For example: Cincinnati ], all the su
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/f1629c97-2e65-48b3-a5c1-a228acc0ca46">
 
-this is the first screenshot
+This screen is displayed when the user chooses the particular subcomponent screen [ the user here chooses the hospitals screen]. List of all the chosen subcomponent screen are shown.
 
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/4a871743-3034-49a8-b6bf-becdb603d4ea">
 
-this is the first screenshot
+The screen then navigated to the google maps page where the options such as directions, start, save, and share are shown. The user still has further feasibility to choose their choice.
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/6f5edab7-1b44-45f9-9175-834d880f7c93">
 
-this is the first screenshot
+When the user navigates back, and the user is in the subcomponent screen [ the user here chooses the hospitals screen of Cincinnati city], additionally the user has the option to choose the selected place of that particular city by entering the place of their choice [ the  user here chooses the Good Samaritan Hospital]
 
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/8715597d-94cf-41cf-9d46-3c71b82ab505">
 
-this is the first screenshot
+This is the screen when a user navigates back to the subcomponent screen and chooses the restaurants screen. All the restaurants of user chosen city are displayed here. The user can further choose that option and it will redirect to the google maps page where all the options can be visible.
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ea5b20f2-33ed-4e1a-a75a-b8e3c305cf6d">
 
-this is the first screenshot
+This screen is displayed when the user again navigates back and chooses the Businesses option. All the list of options of chosen subcomponent screen [i.e., the user can chooses businesses ] are displayed here. The user can further choose that particular option where it it will again navigate to google maps page.
 
 
 
