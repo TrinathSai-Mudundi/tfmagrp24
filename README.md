@@ -10,7 +10,7 @@ When the user chooses a specific option from the displayed options, then it will
 
 This Local Findings App will ensure the user a feasibility in navigating the screens, data passings, and UI rendering work.
 
-The code and Output Screenshot
+The code and Output Screenshots
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/2dd3882a-6a88-46b5-86b0-a76876293295">
 
@@ -27,7 +27,7 @@ Then the home screen navigates to this screen where the user can view the City s
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/9835be48-5fce-47f5-90ec-407af78e2b7d">
 
-this is the first screenshot
+This is the screen where a user can view the list of screens, it can either be attractions or hospitals or businesses or restaurants. In the displayed screen above, the attractions of the city [ example chosen city is New York] are shown. It works the same for all the screens [ The code works same for all the subcomponents].
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/2ddecf28-aa09-478a-90d0-9fe6ce7935a2">
 
