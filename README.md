@@ -31,7 +31,7 @@ This is the screen where a user can view the list of screens, it can either be a
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/2ddecf28-aa09-478a-90d0-9fe6ce7935a2">
 
-this is the first screenshot
+This is the screen where when a user chooses a particular choice from the given options i.e., the screen then navigates to the google maps page where guidance such as directions, start, save, etc are provided.
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ee0e30c3-742b-4701-8ef2-fec95cb38bcd">
 
