@@ -18,26 +18,34 @@ this is the first screenshot
 
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/5c3e1141-6123-4b92-b115-4d4f072ea760">
-
+this is the first screenshot
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/12096b22-4e13-4a55-a072-1fe792d513d0">
 
-
+this is the first screenshot
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/9835be48-5fce-47f5-90ec-407af78e2b7d">
-
+this is the first screenshot
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/2ddecf28-aa09-478a-90d0-9fe6ce7935a2">
-
+this is the first screenshot
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ee0e30c3-742b-4701-8ef2-fec95cb38bcd">
-<img width="338" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ca20ddcf-6c68-4e59-a315-684bb25232c1">
+this is the first screenshot
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ca20ddcf-6c68-4e59-a315-684bb25232c1">
+this is the first screenshot
 
-<img width="366" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/452378f0-54a3-40d8-95df-17e2da852523">
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/452378f0-54a3-40d8-95df-17e2da852523">
+this is the first screenshot
 
-<img width="366" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/f1629c97-2e65-48b3-a5c1-a228acc0ca46">
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/f1629c97-2e65-48b3-a5c1-a228acc0ca46">
+this is the first screenshot
 
-<img width="397" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/4a871743-3034-49a8-b6bf-becdb603d4ea">
-<img width="417" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/6f5edab7-1b44-45f9-9175-834d880f7c93">
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/4a871743-3034-49a8-b6bf-becdb603d4ea">
+this is the first screenshot
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/6f5edab7-1b44-45f9-9175-834d880f7c93">
+this is the first screenshot
 
-<img width="468" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/8715597d-94cf-41cf-9d46-3c71b82ab505">
-<img width="468" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ea5b20f2-33ed-4e1a-a75a-b8e3c305cf6d">
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/8715597d-94cf-41cf-9d46-3c71b82ab505">
+this is the first screenshot
+<img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ea5b20f2-33ed-4e1a-a75a-b8e3c305cf6d">
+this is the first screenshot
 
 
 
