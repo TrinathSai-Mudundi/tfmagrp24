@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "New York",
+        "description": "NY",
+        "speciality": "Times Square"
+    },
+    {
+        "id": 2,
+        "name": "Los Angeles",
+        "description": "LA",
+        "speciality": "Universal Studios Hollywood"
+    },
+    {
+        "id": 3,
+        "name": "Chicago",
+        "description": "CH",
+        "speciality": "Riverwalk"
+    },
+    {
+        "id": 4,
+        "name": "Houston",
+        "description": "HS",
+        "speciality": "Water Wall"
+    },
+    {
+        "id": 5,
+        "name": "Phoenix",
+        "description": "PX",
+        "speciality": "Phoenix Zoo"
+    },
+    {
+        "id": 6,
+        "name": "Cincinnati",
+        "description": "CN",
+        "speciality": "Cincinnati Museum Center"
+    },
+    {
+        "id": 7,
+        "name": "Philadelphia",
+        "description": "PL",
+        "speciality": "Philadelphia's Magic Gardens"
+    },
+    {
+        "id": 8,
+        "name": "Dallas",
+        "description": "DL",
+        "speciality": "Klyde Warren Park"
+    },
+    {
+        "id": 9,
+        "name": "Austin",
+        "description": "AS",
+        "speciality": "Museum of the Weird"
+    },
+    {
+        "id": 10,
+        "name": "Columbus",
+        "description": "CL",
+        "speciality": "Columbus Zoo and Aquarium"
+    },
+    {
+        "id": 11,
+        "name": "Charlotte",
+        "description": "CHL",
+        "speciality": "Freedom Park"
+    },
+    {
+        "id": 12,
+        "name": "Seattle",
+        "description": "SE",
+        "speciality": "Chihuly Garden and Glass"
+    },
+    {
+        "id": 13,
+        "name": "Las Vegas",
+        "description": "LV",
+        "speciality": "Fountains of Bellagio"
+    },
+    {
+        "id": 14,
+        "name": "Oklahoma",
+        "description": "OK",
+        "speciality": "Bricktown Water Taxi"
+    },
+    {
+        "id": 15,
+        "name": "Boston",
+        "description": "BS",
+        "speciality": "New England Aquarium"
+    },
+    {
+        "id": 16,
+        "name": "Kansas",
+        "description": "KS",
+        "speciality": "Kansas City Zoo & Aquarium"
+    },
+    {
+        "id": 17,
+        "name": "Tampa",
+        "description": "TM",
+        "speciality": "Adventure Island"
+    },
+    {
+        "id": 18,
+        "name": "Detroit",
+        "description": "DT",
+        "speciality": "Detroit Riverwalk"
+    },
+    {
+        "id": 19,
+        "name": "Glendale",
+        "description": "GL",
+        "speciality": "Casa Adobe de San Rafael and Park"
+    },
+    {
+        "id": 20,
+        "name": "New Haven",
+        "description": "NH",
+        "speciality": "East Rock Park"
+    }
+]
