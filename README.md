@@ -1,9 +1,8 @@
 Significant Description of Local Findings App:
 
-Local Findings -  Main goal is to simplify the process of finding local services such as local
-attractions, hospitals and stores. Many local people don’t know about the nearby points of
-interest or cri8cal services. This app helps to connect users with best local a7rac8ons, hospitals
-and stores, making it easy for them to access and explore what’s available around them
+Local Findings -  Main goal is to simplify the process of finding local services such as local attractions, hospitals and stores. Many local people don’t know about the nearby points of interest or critical services. This app helps to connect users with best local attractions, hospitals and stores, making it easy for them to access and explore what’s available around them
+
+in terminal in order to start the app use "npm start" and after it asks for operating system choose ios and the output will be displayed in simulator
 
 The code uses React Navigation to set up the navigation stack, with each screen component imported and registered with the navigator.
 
