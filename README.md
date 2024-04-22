@@ -1,5 +1,7 @@
 Significant Description of Local Findings App:
 
+
+
 The code uses React Navigation to set up the navigation stack, with each screen component imported and registered with the navigator.
 
 Now, let's ensure each screen receives the necessary data. Using route.params in the screen components (Attractions, Business, Hospitals, Restaurants), data is passed after the navigation setup. Then the data which is in the given database is uploaded. 
