@@ -14,16 +14,16 @@ The code and Output Screenshot
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/2dd3882a-6a88-46b5-86b0-a76876293295">
 
-this is the first screenshot
+This is the home screen of Local findings app where users can search their required city in two ways. The first one is by entering the city name in the search bar and then choose. The other one is by selecting the particular city in the “Select the Cities” where all the cities are displayed.
 
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/5c3e1141-6123-4b92-b115-4d4f072ea760">
 
-this is the first screenshot
+This is the screen where a user selects the first option i.e., by entering the city name in the search bar and then chooses the city.  We can view all the city names in the list display.
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/12096b22-4e13-4a55-a072-1fe792d513d0">
 
-this is the first screenshot
+Then the home screen navigates to this screen where the user can view the City short name on the right side of the search screen. All the subcomponents such as attractions, hospitals, businesses, and restaurants are displayed below in button format. Also, the main attraction of the selected city is displayed at the bottom of the page.
 
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/9835be48-5fce-47f5-90ec-407af78e2b7d">
 
@@ -68,6 +68,12 @@ this is the first screenshot
 <img width="500" alt="image" src="https://github.com/tfmagroup24/tfmagrp24/assets/167700528/ea5b20f2-33ed-4e1a-a75a-b8e3c305cf6d">
 
 this is the first screenshot
+
+
+
+
+
+
 
 
 
